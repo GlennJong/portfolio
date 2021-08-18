@@ -32,7 +32,7 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
 ![災防](https://github.com/GlennJong/porfolio/blob/master/images/ncdr.png?raw=true "減災動資料")
 
 減災動資料是國家災害防救中心的功能型大型網站，提供歷年災害數據並依此製作出圖表提供學術使用，在這個專案中，我負責執行前端開發，需要處理大量的頁面排版與後端數據，並依數據產出圖表與地圖分色，因此使用了不少圖表套件與 SVG 的上色控制。
-另外整個專案使用 React 框架來進行開發，以此來處理大量且複雜的頁面，並且在換頁與跳轉有更好的使用體驗。
+另外整個專案使用 React 框架來進行開發，方便處理大量且複雜的頁面與元件，並且在換頁與跳轉有更好的使用體驗。
 
 
 ------------
@@ -46,7 +46,7 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
 
 ------------
 ### 有偶設計官網 [Link](https://yoodesign.com.tw/)
-![有偶](https://github.com/GlennJong/porfolio/blob/master/images/ncdr.png?raw=true "yoodesign")
+![有偶](https://github.com/GlennJong/porfolio/blob/master/images/yoodesign.png?raw=true "yoodesign")
 
 有偶設計的官網開發，在這項專案中，我同時負責前端與後端開發。
 首頁希望以「深入探索」的互動使瀏覽網站的體驗更有趣，使用者可以透過捲軸捲動來「挖掘」有偶設計的精選作品，在技術上使用監聽捲軸的方式來驅動整個互動體驗。
