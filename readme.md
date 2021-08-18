@@ -1,4 +1,4 @@
-#Profile
+# Profile
 Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能力，擅長使用 React 框架進行前端開發，並且使用 PHP Laravel 作後端開發。同時具備網頁切版基礎能力與網頁設計經驗，能夠處理各式網頁的版型開發。業餘時間會持續技術進修，並且開發自己的 Side Project。
 
 ## 經歷
@@ -17,7 +17,7 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
 - Pixi.js
 
 
-#Works
+# Works
 ### 海廢圖鑑 [Link](http://oceantrash.rethinktw.org/)
 ![rethink](https://github.com/GlennJong/porfolio/blob/master/images/rethink.gif?raw=true "海廢圖鑑")
 
@@ -73,6 +73,6 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
 專案以 React 框架開發，透過各種 Youtube 提供的 API 獲取影片的字幕內容，並且串接了 Microsoft Azure 的翻譯 API 來處理生字中譯功能。並使用 Redux 負責跨元件的狀態管理。
 
 
-#Contact
+# Contact
 My Email: zaku0225@gmail.com
 My Site: [https://www.glenn.tw](https://www.glenn.tw)
