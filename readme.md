@@ -46,7 +46,7 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
 
 ------------
 ### 有偶設計官網 [Link](https://yoodesign.com.tw/)
-![有偶](https://github.com/GlennJong/porfolio/blob/master/images/yoodesign.png?raw=true "yoodesign")
+![有偶](https://github.com/GlennJong/porfolio/blob/master/images/yoodesign.gif?raw=true "yoodesign")
 
 有偶設計的官網開發，在這項專案中，我同時負責前端與後端開發。
 首頁希望以「深入探索」的互動使瀏覽網站的體驗更有趣，使用者可以透過捲軸捲動來「挖掘」有偶設計的精選作品，在技術上使用監聽捲軸的方式來驅動整個互動體驗。
