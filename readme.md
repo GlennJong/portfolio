@@ -24,6 +24,7 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
 - Version control
   - Git
   - Soucetree
+  - Bitbucket
 - Design
   - Adobe Xd
   - Sketch
