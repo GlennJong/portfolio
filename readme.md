@@ -2,45 +2,40 @@
 Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能力，擅長使用 React 框架進行前端開發，並且使用 PHP Laravel 作後端開發。我有 6 年的網頁相關工作資歷，熟悉完整的網頁開發流程與協作分工，並具備網頁切版能力與網頁設計經驗，能夠處理各式網頁的版型開發。業餘時間會持續技術進修，並且開發自己的 Side Project。
 
 ## 經歷
-- 2015.9 - 2016.10 華瑞資訊網頁設計公司 **網頁設計師**  
-  - 品牌型網站與購物車網站的網頁設計工作
-  - 網頁版型與 RWD 開發
-
-- 2016.11 - 2018.7 旺普網路資訊股份有限公司 **網頁設計師**  
-  - 巴哈姆特討論版 UI Redesign 工作
-  - 巴哈姆特動畫瘋 Web 版本的 UI 維護
-  - 巴哈姆特即時聊天服務 Web 版本的 UI 維護
-  - 上述產品的網頁版型與 RWD 開發
-
-- 2018.8 - 至今 簡訊設計行銷有限公司 **前端工程師**  
+### 前端工程師
+- 2018.8 - 至今 簡訊設計行銷有限公司 
   - 網頁前端技術應用開發
   - 網頁後端資料庫架設與 API 開發
   - 協助管理客戶伺服器
   - 網頁專案維護與更新
   - 開發加速團隊溝通的協作工具
   - 流量數據追蹤分析 
+  
+### 網頁設計師
+- 2016.11 - 2018.7 旺普網路資訊股份有限公司 **網頁設計師**  
+  - 巴哈姆特討論版 UI Redesign 工作
+  - 巴哈姆特動畫瘋 Web 版本的 UI 維護
+  - 巴哈姆特即時聊天服務 Web 版本的 UI 維護
+  - 上述產品的網頁版型與 RWD 開發
+
+- 2015.9 - 2016.10 華瑞資訊網頁設計公司 **網頁設計師**  
+  - 品牌型網站與購物車網站的網頁設計工作
+  - 網頁版型與 RWD 開發
+
+
 
 ## 開發工具技能
-- Version control
-  - Git
-  - Soucetree
-  - Bitbucket
-- Design
+- Design tools
   - Adobe Xd
   - Sketch
   - Zeplin
-- Package Manager
-  - npm
-- CSS preprocessors
-  - SCSS
+- Development tools
+  - Git 
   - style component
-- Framework  
   - Vue.js
   - React.js
-- Backend
   - PHP + Laravel
   - graphQL
-- Library
   - Pixi.js
 
 
@@ -116,15 +111,13 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
 ### YT Listener [Link](http://learn.glenn.tw/)
 ![yt](https://github.com/GlennJong/porfolio/blob/master/images/yt.png?raw=true "ytlistener")
 
-YT Listener 是 2021 年為了練習英聽做的 Side Project，能夠播放 Youtube 影片並且串接其英文字幕，能夠在播放過程隨時註記需要重複收聽的句子，並且可記錄生字並且收錄在單字本中。  
-YT Listener 是純前端的專案，資料儲存交給 local storage 處理。
+YT Listener 是 2021 年做的 Side Project，用於練習英文聽力，能夠播放 Youtube 影片並且串接其英文字幕，能夠在播放過程隨時註記需要重複收聽的句子，並且可記錄生字並且收錄在單字本中。  
+我負責 UI 設計與 App 開發。
 專案以 React 框架開發，其中較為出色的地方是：
 - 串接 Youtube 提供的 API 以獲取影片的字幕內容。
 - 串接了 Microsoft Azure 翻譯 API 來處理單字中譯功能。
 - 使用 Redux 負責跨元件的狀態管理。
 - 以 PWA 的方式開發，方便手機直接使用。
-
-YT Listener 是我總結自己能力的 Side Project，從介面設計到網頁開發都是獨立完成，也透過這個專案來重新審視自身的能力。
 
 
 ---
