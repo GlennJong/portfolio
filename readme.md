@@ -31,7 +31,7 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
   - Zeplin
 - Development tools
   - Git 
-  - style component
+  - styled-components
   - Vue.js
   - React.js
   - PHP + Laravel
