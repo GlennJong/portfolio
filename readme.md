@@ -42,7 +42,7 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
 
 # Works
 ### 海廢圖鑑 [Link](http://oceantrash.rethinktw.org/)
-![rethink](https://github.com/GlennJong/porfolio/blob/master/images/rethink.gif?raw=true "海廢圖鑑")
+![rethink](https://github.com/GlennJong/portfolio/blob/master/images/rethink.gif?raw=true "海廢圖鑑")
 
 海廢圖鑑是以介紹海洋廢棄物為主題的議題型網站，是簡訊設計時期 2018 年的專案，我負責執行前端開發，使用 Laravel blade 模板進行開發。  
 此專案需要兼顧較多元的版型切版與有趣的網頁互動開發，其中較為出色的部分：
@@ -54,7 +54,7 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
 
 ---
 ### 減災動資料 [Link](https://drrstat.ncdr.nat.gov.tw/)
-![災防](https://github.com/GlennJong/porfolio/blob/master/images/ncdr.png?raw=true "減災動資料")
+![災防](https://github.com/GlennJong/portfolio/blob/master/images/ncdr.png?raw=true "減災動資料")
 
 減災動資料是國家災害防救中心的功能型大型網站，是簡訊設計時期 2018 至 2020 年的大型專案，提供歷年災害數據並依此製作出圖表提供學術使用。  
 在這個專案中，我負責執行前端開發，其中較為出色的部分：
@@ -68,7 +68,7 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
 
 ---
 ### 今晚，我們一起吃塑膠 [Link](http://pnn.pts.org.tw/yumyum/)
-![塑膠](https://github.com/GlennJong/porfolio/blob/master/images/pnn.png?raw=true "今晚，我們一起吃塑膠")  
+![塑膠](https://github.com/GlennJong/portfolio/blob/master/images/pnn.png?raw=true "今晚，我們一起吃塑膠")  
 
 公視的海洋塑膠微粒的議題型網站，是簡訊設計時期 2019 年的專案，以互動遊戲讓使用者理解塑膠微粒的環保議題。
 在這個專案中，我負責執行前端頁面與遊戲開發。  
@@ -80,21 +80,21 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
 
 ---
 ### 有偶設計官網 [Link](https://yoodesign.com.tw/)
-![有偶](https://github.com/GlennJong/porfolio/blob/master/images/yoodesign.gif?raw=true "yoodesign")
+![有偶](https://github.com/GlennJong/portfolio/blob/master/images/yoodesign.gif?raw=true "yoodesign")
 
 有偶設計的官網開發，是簡訊設計時期 2020 年的專案，在這項專案中，我同時負責前端與後端開發。
 前端使用 React 進行開發，React 提供 Hook 功能，能夠加速開發並且有效管理特效的狀態，後端使用 PHP + Laravel，Laravel 提供許多快速便捷的指令產出後端架構，前端工程師也能快速上手。
 其中較為出色的部分：
 - 首頁的「深入探索」的互動，使用監聽捲軸的方式來驅動整個互動體驗。
 - 方便設計師管理上述效果，開發客製化後台給設計師使用。
-  ![backpack](https://github.com/GlennJong/porfolio/blob/master/images/yoodesign-back.png?raw=true "backpack")
+  ![backpack](https://github.com/GlennJong/portfolio/blob/master/images/yoodesign-back.png?raw=true "backpack")
 
 開發細節刊載於*簡訊設計部落格* [用景深特效打造網頁空間感－有偶設計程式開發分享](https://blog.simpleinfo.cc/blog/talk/yoo-design-code-sharing)
 
 
 ---
 ### 簡訊設計官網 [Link](https://www.simpleinfo.cc/)
-![簡訊](https://github.com/GlennJong/porfolio/blob/master/images/simpleinfo.gif?raw=true "simpleinfo")
+![簡訊](https://github.com/GlennJong/portfolio/blob/master/images/simpleinfo.gif?raw=true "simpleinfo")
 
 簡訊設計官網是簡訊設計時期 2021 年的專案，公司需要翻新久久未更新的官網，我負責前端開發。  
 其中較為出色的地方是：
@@ -106,10 +106,17 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
 
 開發細節刊載於*簡訊設計部落格* [如看展般的網站水平瀏覽體驗—簡訊設計官網程式開發分享](https://blog.simpleinfo.cc/blog/talk/simpleinfo-official-code-sharing)
 
+---
+### 台灣新媒體影音創作者協會 [Link](https://creatorsassociation.tw/)
+![tw-yt](https://github.com/GlennJong/portfolio/blob/master/images/tw-yt.png?raw=true "tw-yt")
+
+台灣新媒體創作者協會的官網開發，是簡訊設計時期 2021 年的專案，在這項專案中，我同時負責前端與後端開發。
+- 使用 graphQL 進行資料串接。
+- 使用 React-hook-form 開發表單。
 
 ---
 ### Brave Series RNFT PLAN [Link](https://fandoranft.com/)
-![yt](https://github.com/GlennJong/porfolio/blob/master/images/fandoranft.png?raw=true "fandoranft")
+![yt](https://github.com/GlennJong/portfolio/blob/master/images/fandoranft.png?raw=true "fandoranft")
 
 黃色書刊的勇者系列發行的 RNFT 專案，我負責前端與後端的開發。
 - 雙語系網站架構。
@@ -118,7 +125,7 @@ Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能
 
 ---
 ### YT Listener [Link](https://ytlistener.glenn.tw/)
-![yt](https://github.com/GlennJong/porfolio/blob/master/images/yt.png?raw=true "ytlistener")（維修中）
+![yt](https://github.com/GlennJong/portfolio/blob/master/images/yt.png?raw=true "ytlistener")（維修中）
 
 YT Listener 是 2021 年做的 Side Project，用於練習英文聽力，能夠播放 Youtube 影片並且串接其英文字幕，能夠在播放過程隨時註記需要重複收聽的句子，並且可記錄生字並且收錄在單字本中。 
 我負責 UI 設計與 App 開發。
