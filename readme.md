@@ -1,161 +1,114 @@
-# Profile
-Hi，我是 Glenn，前端工程師經驗 3 年，具備網頁前後端開發能力，擅長使用 React 框架進行前端開發，並且使用 PHP Laravel 作後端開發。我有 6 年的網頁相關工作資歷，熟悉完整的網頁開發流程與協作分工，並具備網頁切版能力與網頁設計經驗，能夠處理各式網頁的版型開發。業餘時間會持續技術進修，並且開發自己的 Side Project。
+## About Me
 
-## 經歷
-### 前端工程師
-- 2018.8 - 2021.10 簡訊設計行銷有限公司 
-  - 網頁前端技術應用開發
-  - 網頁後端資料庫架設與 API 開發
-  - 協助管理客戶伺服器
-  - 網頁專案維護與更新
-  - 開發加速團隊溝通的協作工具
-  - 流量數據追蹤分析 
-  
-### 網頁設計師
-- 2016.11 - 2018.7 旺普網路資訊股份有限公司 **網頁設計師**  
-  - 巴哈姆特討論版 UI Redesign 工作
-  - 巴哈姆特動畫瘋 Web 版本的 UI 維護
-  - 巴哈姆特即時聊天服務 Web 版本的 UI 維護
-  - 上述產品的網頁版型與 RWD 開發
+Hi, I’m Glenn.
+I’m a Frontend Engineer with over 6 years of experience, and I’ve been part of 30+ projects over the past 9 years, covering UI design, frontend, and even some full-stack work.
 
-- 2015.9 - 2016.10 華瑞資訊網頁設計公司 **網頁設計師**  
-  - 品牌型網站與購物車網站的網頁設計工作
-  - 網頁版型與 RWD 開發
+I love taking inspiration from daily life to build side projects that help me and my friends, and I’m always picking up new tech and figuring out how to adapt to different development environments.
+
+I’m always eager to explore new technologies—whether in frontend, beyond frontend, or AI—because I believe learning new skills allows me to tackle more challenging problems and create meaningful solutions.
+
+Below are some of the projects I’ve been part of, showing how I apply my curiosity and problem-solving mindset across different technologies.
+
+## Skills
+### Frontend Skills
+React.js | Vue.js | Pixi.js | Phaser.js
+
+### Backend Skills
+Node.js | Nest.js | PHP + Laravel
 
 
+## Side Projects
 
-## 開發工具技能
-- Design tools
-  - Adobe Xd
-  - Sketch
-  - Zeplin
-- Development tools
-  - Git 
-  - styled-components
-  - Vue.js
-  - React.js
-  - PHP + Laravel
-  - graphQL
-  - Pixi.js
-  - Node Express
+### Tamagotchi Mini Game
+A mini game where players raise and decorate a virtual pet, earning in-game currency for room customization.
+- Built with Phaser.js and Pixi.js, integrating Twitch API events for interactive experiences.
+- Developed and customized game mechanics (events, pet growth, earning system).
+- Created and designed characters and sprites, fully custom visuals for the game.
+- Ensured smooth and engaging gameplay for viewers.
 
+### Wordbook
+A personalized vocabulary book tailored to my own learning habits.
+- Connected with Google Sheets and Apps Script to allow easy scaling of content.
+- Applied Gemini AI to automatically generate vocabulary entries.
+- Built a CRUD system to manage entries efficiently.
+- Focused on usability and customization for long-term learning.
 
-# Works
-### 海廢圖鑑 | [Link](http://oceantrash.rethinktw.org/)
-![rethink](https://github.com/GlennJong/portfolio/blob/master/images/rethink.gif?raw=true "海廢圖鑑")
-
-海廢圖鑑是以介紹海洋廢棄物為主題的議題型網站，是簡訊設計時期 2018 年的專案，我負責執行前端開發，使用 Laravel blade 模板進行開發。<br />
-此專案需要兼顧較多元的版型切版與有趣的網頁互動開發，其中較為出色的部分：<br />
-- 海洋廢棄物 360 度旋轉的互動特效。[Link](http://oceantrash.rethinktw.org/marine-debris/rubber-duck)
-- 使用 Vue 開發的簡易問答遊戲。[Link](http://oceantrash.rethinktw.org/challenge-start)
-- 具有 [SVG 地圖](http://oceantrash.rethinktw.org/zh-TW/map)、分類與篩選的海廢列表。[Link](http://oceantrash.rethinktw.org/)  
-
-此專案具有雙語版本，運用 Laravel 提供的快速指令，能夠自動抽換網站內的所有文本內容。
-
----
-### 減災動資料 | [Link](https://drrstat.ncdr.nat.gov.tw/)
-![災防](https://github.com/GlennJong/portfolio/blob/master/images/ncdr.png?raw=true "減災動資料")
-
-減災動資料是國家災害防救中心的功能型大型網站，是簡訊設計時期 2018 至 2020 年的大型專案，提供歷年災害數據並依此製作出圖表提供學術使用。<br />
-在這個專案中，我負責執行前端開發，其中較為出色的部分：<br />
-- component 最佳化處理，以便處理大量的頁面排版。
-- 數據產出圖表與地圖分色，使用了圖表套件與 SVG 繪製。
-- 與後端串接處理會員登入狀態。
-- 提供使用者自行上傳的客製化圖表功能。
-  
-整個專案使用 React 框架來進行開發，方便處理大量且複雜的頁面與元件，並且在換頁與跳轉有更好的使用體驗。
+### CurryCat Twitch Interface
+A customized interactive interface for streamer CurryCat, enhancing viewer engagement.
+- Connected with Twitch API chatroom to capture live messages.
+- Applied Speech Recognition to visualize chat interactions in real time.
+- Developed interactive animations: a cat and a mug react to chat events, creating fun visual feedback.
+- Designed for smooth performance and entertaining viewer experience.
 
 
----
-### 今晚，我們一起吃塑膠 | [Link](http://pnn.pts.org.tw/yumyum/)
-![塑膠](https://github.com/GlennJong/portfolio/blob/master/images/pnn.png?raw=true "今晚，我們一起吃塑膠")  
 
-公視的海洋塑膠微粒的議題型網站，是簡訊設計時期 2019 年的專案，以互動遊戲讓使用者理解塑膠微粒的環保議題。<br />
-在這個專案中，我負責執行前端頁面與遊戲開發。  <br />
-我選擇使用 Vue 作為遊戲的開發框架，其中較為出色的部分：<br />
-- 模組化遊戲進程，能夠方便的管理遊戲狀態且幫助除錯。
-- 人物對話模組，並將文本以 JSON 方式打包，方便後續管理。
-  
-除了遊戲部分，該網站瀏覽體驗上使用了許多 Intersection Observer，讓網頁的互動更活潑。
+### YT Listener(Keep) | [Link](https://ytlistener.glenn.tw/) | [Github](https://github.com/GlennJong/youtube-anchor)
+![yt](https://github.com/GlennJong/portfolio-en/blob/master/images/yt.png?raw=true "ytlistener")(not available now.)
 
----
-### 有偶設計官網 | [Link](https://yoodesign.com.tw/)
-![有偶](https://github.com/GlennJong/portfolio/blob/master/images/yoodesign.gif?raw=true "yoodesign")
-
-有偶設計的官網開發，是簡訊設計時期 2020 年的專案，在這項專案中，我同時負責前端與後端開發。<br />
-前端使用 React 進行開發，React 提供 Hook 功能，能夠加速開發並且有效管理特效的狀態，後端使用 PHP + Laravel，Laravel 提供許多快速便捷的指令產出後端架構，前端工程師也能快速上手。<br />
-其中較為出色的部分：
-- 首頁的「深入探索」的互動，使用監聽捲軸的方式來驅動整個互動體驗。
-- 方便設計師管理上述效果，開發客製化後台給設計師使用。
-  ![backpack](https://github.com/GlennJong/portfolio/blob/master/images/yoodesign-back.png?raw=true "backpack")
-
-開發細節刊載於*簡訊設計部落格* [用景深特效打造網頁空間感－有偶設計程式開發分享](https://blog.simpleinfo.cc/blog/talk/yoo-design-code-sharing)
+This app provides playing Youtube videos and synchronized captions. I use it to train English listening and memory vocabulary.
+I made this side project in 2021, including UI design and frontend development.
+- Connect Youtube APIs to get captions.
+- Using Microsoft Azure translation API to translate words to Chinese.
+- Built this project as mobile app with PWA.
 
 
----
-### 簡訊設計官網 | [Link](https://www.simpleinfo.cc/)
-![簡訊](https://github.com/GlennJong/portfolio/blob/master/images/simpleinfo.gif?raw=true "simpleinfo")
-
-簡訊設計官網是簡訊設計時期 2021 年的專案，公司需要翻新久久未更新的官網，我負責前端開發。<br /> 
-其中較為出色的地方是：
-- 處理首頁的橫向操作瀏覽方式，需要處理原生捲軸問題，並且開發符合 RWD 排版。
-- 導入 styled-components，告別 CSS 的管理問題。
-- 具有穿梭感的換頁特效，需要處理 react-router-dom 換頁非同步問題。
-
-另外，開發團隊使用 graphQL 進行前後端串接，不同於過去 PHP API 的串接方式，graphQL 提供前端工程師更便利的使用方式，而不需要親自處理後端的 Model 部分。
-
-開發細節刊載於*簡訊設計部落格* [如看展般的網站水平瀏覽體驗—簡訊設計官網程式開發分享](https://blog.simpleinfo.cc/blog/talk/simpleinfo-official-code-sharing)
-
----
-### 台灣新媒體影音創作者協會 | [Link](https://creatorsassociation.tw/)
-![tw-yt](https://github.com/GlennJong/portfolio/blob/master/images/tw-yt.png?raw=true "tw-yt")
-
-台灣新媒體創作者協會的官網開發，是簡訊設計時期 2021 年的專案，在這項專案中，我同時負責前端與後端開發。<br />
-- 使用 graphQL 進行資料串接。
-- 使用 React-hook-form 開發表單。
-
----
-### Brave Series RNFT PLAN | [Link](https://fandoranft.com/)
-![yt](https://github.com/GlennJong/portfolio/blob/master/images/fandoranft.png?raw=true "fandoranft")
-
-黃色書刊的勇者系列發行的 RNFT 專案，我負責前端與後端的開發。<br />
-- 雙語系網站架構。
-- 使用 orchid 後台 interface。
 
 
----
-### YT Listener | [Link](https://ytlistener.glenn.tw/) | [Github](https://github.com/GlennJong/youtube-anchor)
-![yt](https://github.com/GlennJong/portfolio/blob/master/images/yt.png?raw=true "ytlistener")（維修中）
 
-YT Listener 是 2021 年做的 Side Project，用於練習英文聽力，能夠播放 Youtube 影片並且串接其英文字幕，能夠在播放過程隨時註記需要重複收聽的句子，並且可記錄生字並且收錄在單字本中。<br />
-我負責 UI 設計與 App 開發。<br />
-專案以 React 框架開發，其中較為出色的地方是：<br />
-- 串接 Youtube 提供的 API 以獲取影片的字幕內容（已失效）。
-- 串接 Microsoft Azure 翻譯 API 來處理單字中譯功能。
-- 使用 Redux 負責跨元件的狀態管理。
-- 以 PWA 的方式開發，方便手機直接使用。
+## Simpleinfo Works
 
+### THE GUIDEBOOK OF MARINE DEBRIS. [Link](http://oceantrash.rethinktw.org/)
+![rethink](https://github.com/GlennJong/portfolio-en/blob/master/images/rethink.gif?raw=true "THE GUIDEBOOK OF MARINE DEBRIS.")
 
----
-### CSV Sheet Matcher | [Link](https://csv-sheet-matcher.glenn.tw/) | [Github](https://github.com/GlennJong/csv-sheet-matcher)
-![sheet-matcher](https://github.com/GlennJong/portfolio/blob/master/images/csv-sheet-matcher.png?raw=true "sheet-matcher")
-
-CSV Sheet Matcher 是 2019 年的 Side Project，能夠快速比對兩份表格內容，並合成產出新的表格。<br />
-我負責 UI 設計與 App 開發。<br />
-專案以 React 框架開發，其中較為出色的地方是：<br />
-- 對 CSV 內容的操作。
-- Drag and drop 的介面開發。
+A web project in 2018 to raise awareness about ocean debris. I worked with fantastic Simpleinfo design team for making the interactive content with impressive visual design, so visitors could explore and learn at the same time.
+- Interaction of rotating elements.[Link](http://oceantrash.rethinktw.org/marine-debris/rubber-duck)
+- Built a quiz game to make learning fun.[Link](http://oceantrash.rethinktw.org/challenge-start)
+- Developed sortable lists and an interactive SVG map. [LIST](http://oceantrash.rethinktw.org/) / [MAP](http://oceantrash.rethinktw.org/zh-TW/map).
+- Managed multi-language support through a content panel.
 
 
----
-### Googlesheet-to-json [Github](https://github.com/GlennJong/googlesheet-to-json)
+### Yoodesign official website [Link](https://yoodesign.com.tw/)
+![yoodesign](https://github.com/GlennJong/portfolio-en/blob/master/images/yoodesign.gif?raw=true "yoodesign")
+The official site for YooDesign, built to showcase their design portfolio. I helped bring the team’s creative ideas to life through frontend and backend development.
 
-Googlesheet-to-json 是 2021 年做的 Side Project，將 google sheet 的內容轉換成 json 的巢狀格式。<br />
-其中較為出色的地方是：<br />
-- 使用 sh command 執行 Node。
-- 讀取 Google sheet 內容並格式化。
+- Built frontend with React Hooks to streamline development.
+- Developed backend using PHP Laravel and customized Backpack admin panel.
+- Implemented scroll-zoom effect on the homepage.
+- Customized admin panel to manage content for scroll-zoom features.
+![backpack](https://github.com/GlennJong/portfolio-en/blob/master/images/yoodesign-back.png?raw=true "backpack")
 
----
+More development details had posted on [用景深特效打造網頁空間感－有偶設計程式開發分享](https://blog.simpleinfo.cc/blog/talk/yoo-design-code-sharing)
+
+
+### SimpleInfo official website [Link](https://www.simpleinfo.cc/)
+![simpleinfo](https://github.com/GlennJong/portfolio-en/blob/master/images/simpleinfo.gif?raw=true "simpleinfo")
+Company official website showcasing projects and design philosophy. I contributed to the frontend implementation, making sure the site was visually polished and easy to navigate.
+
+- Built horizontal scrolling with keyboard interaction support.
+- Implemented GraphQL APIs via Lighthouse.
+- Styled components using styled-components for maintainable UI.
+
+More development details had posted on [如看展般的網站水平瀏覽體驗—簡訊設計官網程式開發分享](https://blog.simpleinfo.cc/blog/talk/simpleinfo-official-code-sharing).
+
+
+## Taiwan Ai Labs Works
+### TAIgenomics
+A web-based genomics analysis tool built with Node.js and React.js.
+
+- Optimized React.js build pipeline: build time reduced ~70% (235s → 74s), update + browser refresh time reduced 85% (31s → 4s).
+- Developed end-to-end resumable upload service for large genomic files (5–10GB) using NestJS and frontend integration, improving upload success rate and speed.
+- Implemented PDF output generation with Puppeteer for report export.
+
+### QCheck
+An online quality control tool for genomic data, built with Vue.js and PHP Laravel.
+
+- Migrated service from AWS to on-premises servers using Docker, Kubernetes, and ingress configuration.
+- Upgraded outdated frameworks and packages to meet internal security standards; resolved 10+ critical/medium vulnerabilities.
+- Maintained and enhanced frontend and backend features for continuous operation.
+
+
 # Contact
-## My Email
-zaku0225@gmail.com
+Email
+[zaku0225@gmail.com](mailto:zaku0225@gmail.com)
+
+SNS [Linkedin](https://www.linkedin.com/in/jong-glenn-8733bb231/)
