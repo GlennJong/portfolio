@@ -19,7 +19,7 @@ Node.js | Nest.js | PHP + Laravel
 
 ## Side Projects
 
-### Tamagotchi Mini Game
+### Pixel Pet
 A mini game where players raise and decorate a virtual pet, earning in-game currency for room customization.
 - Built with Phaser.js and Pixi.js, integrating Twitch API events for interactive experiences.
 - Developed and customized game mechanics (events, pet growth, earning system).
