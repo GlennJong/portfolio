@@ -42,7 +42,7 @@ A customized interactive interface for streamer CurryCat, enhancing viewer engag
 
 
 
-### YT Listener(Keep) | [Link](https://ytlistener.glenn.tw/demo) | [Github](https://github.com/GlennJong/yt-listener)
+### YT Listener | [Link](https://yt-listener.glenn.tw/demo) | [Github](https://github.com/GlennJong/yt-listener)
 ![yt](https://github.com/GlennJong/portfolio-en/blob/master/images/yt.png?raw=true "ytlistener")
 
 This app provides playing Youtube videos and synchronized captions. I use it to train English listening and memorize vocabulary.
