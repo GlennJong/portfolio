@@ -49,7 +49,6 @@ I made this side project in 2021, including UI design and frontend development.
 
 
 ### CurryCat Twitch Interface | [Link](https://glennjong.github.io/currycat-twitch-interface/) | [Github](https://github.com/GlennJong/currycat-twitch-interface)
-![yt](https://github.com/GlennJong/portfolio/blob/master/images/currycat-twitch-interface?raw=true "ytlistener")
 A customized interactive interface for streamer CurryCat, enhancing viewer engagement.
 - Connected with Twitch API chatroom to capture live messages.
 - Applied Speech Recognition to visualize chat interactions in real time.
