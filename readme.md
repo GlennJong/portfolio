@@ -19,31 +19,26 @@ Node.js | Nest.js | PHP + Laravel
 
 ## Side Projects
 
-### Pixel Pet
+### Pixel Pet | [Link](https://glennjong.github.io/jennie-pixel-pet/dist/) | [Github](https://github.com/GlennJong/jennie-pixel-pet)
+![pixel-pet](https://github.com/GlennJong/portfolio/blob/master/images/pixel-pet-1.png?raw=true "pixel-pet")
+![pixel-pet](https://github.com/GlennJong/portfolio/blob/master/images/pixel-pet-2.png?raw=true "pixel-pet")
 A mini game where players raise and decorate a virtual pet, earning in-game currency for room customization.
 - Built with Phaser.js and Pixi.js, integrating Twitch API events for interactive experiences.
 - Developed and customized game mechanics (events, pet growth, earning system).
 - Created and designed characters and sprites, fully custom visuals for the game.
 - Ensured smooth and engaging gameplay for viewers.
 
-### Wordbook
+### Wordbook | [Link](https://glennjong.github.io/star-words/demo) | [Github](https://github.com/GlennJong/star-words)
+![wordbook](https://github.com/GlennJong/portfolio/blob/master/images/word-book.gif?raw=true "wordbook")
 A personalized vocabulary book tailored to my own learning habits.
 - Connected with Google Sheets and Apps Script to allow easy scaling of content.
 - Applied Gemini AI to automatically generate vocabulary entries.
 - Built a CRUD system to manage entries efficiently.
 - Focused on usability and customization for long-term learning.
 
-### CurryCat Twitch Interface
-A customized interactive interface for streamer CurryCat, enhancing viewer engagement.
-- Connected with Twitch API chatroom to capture live messages.
-- Applied Speech Recognition to visualize chat interactions in real time.
-- Developed interactive animations: a cat and a mug react to chat events, creating fun visual feedback.
-- Designed for smooth performance and entertaining viewer experience.
-
-
 
 ### YT Listener | [Link](https://yt-listener.glenn.tw/demo) | [Github](https://github.com/GlennJong/yt-listener)
-![yt](https://github.com/GlennJong/portfolio-en/blob/master/images/yt.png?raw=true "ytlistener")
+![yt](https://github.com/GlennJong/portfolio/blob/master/images/yt.png?raw=true "ytlistener")
 
 This app provides playing Youtube videos and synchronized captions. I use it to train English listening and memorize vocabulary.
 I made this side project in 2021, including UI design and frontend development.
@@ -53,11 +48,19 @@ I made this side project in 2021, including UI design and frontend development.
 - Tech: React.js (PWA), YouTube API, Google Apps Script
 
 
+### CurryCat Twitch Interface | [Link](https://glennjong.github.io/currycat-twitch-interface/) | [Github](https://github.com/GlennJong/currycat-twitch-interface)
+![yt](https://github.com/GlennJong/portfolio/blob/master/images/currycat-twitch-interface?raw=true "ytlistener")
+A customized interactive interface for streamer CurryCat, enhancing viewer engagement.
+- Connected with Twitch API chatroom to capture live messages.
+- Applied Speech Recognition to visualize chat interactions in real time.
+- Developed interactive animations: a cat and a mug react to chat events, creating fun visual feedback.
+- Designed for smooth performance and entertaining viewer experience.
+
 
 ## Simpleinfo Works
 
 ### THE GUIDEBOOK OF MARINE DEBRIS. [Link](http://oceantrash.rethinktw.org/)
-![rethink](https://github.com/GlennJong/portfolio-en/blob/master/images/rethink.gif?raw=true "THE GUIDEBOOK OF MARINE DEBRIS.")
+![rethink](https://github.com/GlennJong/portfolio/blob/master/images/rethink.gif?raw=true "THE GUIDEBOOK OF MARINE DEBRIS.")
 
 A web project in 2018 to raise awareness about ocean debris. I worked with fantastic Simpleinfo design team for making the interactive content with impressive visual design, so visitors could explore and learn at the same time.
 - Interaction of rotating elements.[Link](http://oceantrash.rethinktw.org/marine-debris/rubber-duck)
@@ -67,20 +70,20 @@ A web project in 2018 to raise awareness about ocean debris. I worked with fanta
 
 
 ### Yoodesign official website [Link](https://yoodesign.com.tw/)
-![yoodesign](https://github.com/GlennJong/portfolio-en/blob/master/images/yoodesign.gif?raw=true "yoodesign")
+![yoodesign](https://github.com/GlennJong/portfolio/blob/master/images/yoodesign.gif?raw=true "yoodesign")
 The official site for YooDesign, built to showcase their design portfolio. I helped bring the team’s creative ideas to life through frontend and backend development.
 
 - Built frontend with React Hooks to streamline development.
 - Developed backend using PHP Laravel and customized Backpack admin panel.
 - Implemented scroll-zoom effect on the homepage.
 - Customized admin panel to manage content for scroll-zoom features.
-![backpack](https://github.com/GlennJong/portfolio-en/blob/master/images/yoodesign-back.png?raw=true "backpack")
+![backpack](https://github.com/GlennJong/portfolio/blob/master/images/yoodesign-back.png?raw=true "backpack")
 
 More development details had posted on [用景深特效打造網頁空間感－有偶設計程式開發分享](https://blog.simpleinfo.cc/blog/talk/yoo-design-code-sharing)
 
 
 ### SimpleInfo official website [Link](https://www.simpleinfo.cc/)
-![simpleinfo](https://github.com/GlennJong/portfolio-en/blob/master/images/simpleinfo.gif?raw=true "simpleinfo")
+![simpleinfo](https://github.com/GlennJong/portfolio/blob/master/images/simpleinfo.gif?raw=true "simpleinfo")
 Company official website showcasing projects and design philosophy. I contributed to the frontend implementation, making sure the site was visually polished and easy to navigate.
 
 - Built horizontal scrolling with keyboard interaction support.
