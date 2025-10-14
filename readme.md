@@ -28,8 +28,8 @@ A mini game where players raise and decorate a virtual pet, earning in-game curr
 - Created and designed characters and sprites, fully custom visuals for the game.
 - Ensured smooth and engaging gameplay for viewers.
 
-### Wordbook | [Link](https://glennjong.github.io/star-words/demo) | [Github](https://github.com/GlennJong/star-words)
-![wordbook](https://github.com/GlennJong/portfolio/blob/master/images/word-book.gif?raw=true "wordbook")
+### Words Book | [Link](https://glennjong.github.io/words-book/demo) | [Github](https://github.com/GlennJong/words-book)
+![wordbook](https://github.com/GlennJong/portfolio/blob/master/images/words-book.png?raw=true "wordsbook")
 A personalized vocabulary book tailored to my own learning habits.
 - Connected with Google Sheets and Apps Script to allow easy scaling of content.
 - Applied Gemini AI to automatically generate vocabulary entries.
@@ -39,7 +39,6 @@ A personalized vocabulary book tailored to my own learning habits.
 
 ### YT Listener | [Link](https://yt-listener.glenn.tw/demo) | [Github](https://github.com/GlennJong/yt-listener)
 ![yt](https://github.com/GlennJong/portfolio/blob/master/images/yt.png?raw=true "ytlistener")
-
 This app provides playing Youtube videos and synchronized captions. I use it to train English listening and memorize vocabulary.
 I made this side project in 2021, including UI design and frontend development.
 - Built a PWA app for synchronized YouTube playback with captions and vocabulary training.
